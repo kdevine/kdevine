@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on
+-- Alexa Projects for Scouts BSA
+-- Magic the Gathering projects
+-- Game Tutorials in various platforms
+--- I am looking into making the TODO list for game platforms
+
 <!--
 **kdevine/kdevine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
