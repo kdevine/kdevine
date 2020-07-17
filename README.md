@@ -1,6 +1,6 @@
-## Hi there, my name is Kevin Devine 👋
-
-### I am a Software Engineer by day and I like to code at night
+<h1 align="center">Hi 👋, I'm Kevin Devine</h1>
+<h3 align="center">I am a Software Engineer by day and I like to code at night</h3>
+<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="20" height="20"/></p>
 
 ### Credentials
 - Software Engineer in .Net/JS for 20 years
@@ -30,17 +30,15 @@
   - Car mechanics - I teach the merit badge
   - Plumbing - I teach the merit badge
 
-<!--
-**kdevine/kdevine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Social and Development Resource Links:
+<p align="center">
+<a href="https://codepen.io/toonela" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="toonela" height="20" width="20" /></a>
+<a href="https://dev.to/kdevine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kdevine" height="20" width="20" /></a>
+<a href="https://twitter.com/kdevine7800" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kdevine7800" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/kevindevineoh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kevindevineoh" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/kdevine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="kdevine" height="20" width="20" /></a>
+<a href="https://codesandbox.com/kdevine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="kdevine" height="20" width="20" /></a>
+<a href="https://kaggle.com/toonela" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="toonela" height="20" width="20" /></a>
+<a href="https://fb.com/kevin.devine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kevin.devine" height="20" width="20" /></a>
+<a href="https://instagram.com/kdevine7800" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kdevine7800" height="20" width="20" /></a>
+</p>
