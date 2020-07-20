@@ -30,6 +30,13 @@
   - Car mechanics - I teach the merit badge
   - Plumbing - I teach the merit badge
 
+******
+<p align="center" >
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=kdevine&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+
 Social and Development Resource Links:
 <p align="center">
 <a href="https://codepen.io/toonela" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="toonela" height="20" width="20" /></a>
